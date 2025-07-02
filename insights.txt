@@ -1,0 +1,8 @@
+VillageConnect Insights
+====================
+
+    - Population Distribution: Villages have populations between 100–2000, with most around 1012 (mean).
+    - Service Access: Approximately 44.8% of villages have healthcare access, and 52.0% have education access.
+    - Income Correlation: Income level shows moderate to strong correlations with road connectivity (corr: 0.06) and electricity access (corr: -0.11).
+    - Water Supply: Villages with higher income levels are more likely to have 'Full' water supply.
+    
